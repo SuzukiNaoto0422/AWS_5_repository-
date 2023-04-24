@@ -14,3 +14,10 @@
 ![](https://github.com/SuzukiNaoto0422/AWS_5_repository-/blob/main/picture/ALB.png?raw=true)  
 
 ### ④S3の作成  
+![](https://github.com/SuzukiNaoto0422/AWS_5_repository-/blob/main/picture/S3.png?raw=true)  
+今回はS3をアプリケーションのバックアップとして使用。  
+AWS CLIをインストールし、EC2インスタンスとS3を接続。  
+変更を加えたファイルをS3にアップロードしたりS3からEC2にファイルをインストールし以前の状態に戻せるように設定。  
+
+### ⑤AWS構造図の作成  
+![]()
