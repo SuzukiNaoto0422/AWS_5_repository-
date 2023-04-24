@@ -20,4 +20,4 @@ AWS CLIをインストールし、EC2インスタンスとS3を接続。
 変更を加えたファイルをS3にアップロードしたりS3からEC2にファイルをインストールし以前の状態に戻せるように設定。  
 
 ### ⑤AWS構造図の作成  
-![]()
+![](https://github.com/SuzukiNaoto0422/AWS_5_repository-/blob/main/picture/AWS%E6%A7%8B%E9%80%A0%E5%9B%B3.png?raw=true)  
