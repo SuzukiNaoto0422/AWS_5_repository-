@@ -47,7 +47,7 @@ aws s3 ls s3://bucket-tutorial-raisetech
 # クローンしたraisetech-live8-sample-appにcdしてから実行
 aws s3 cp /home/ec2-user/raisetech-live8-sample-app s3://bucket-tutorial-raisetech/raisetech-live8-sample-app/ --recursive
 ```  
-コマンドまとめ
+コマンドのまとめ
 ```
 # EC2インスタンスからS3にデータをアップロード
 aws s3 cp を使用
